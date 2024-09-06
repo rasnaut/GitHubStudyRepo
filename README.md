@@ -4,6 +4,7 @@ Repository for study
 
 Some message in README.md!
 Hurra, changes and conflicts!
+Hello 20240906 My name ist Taisia!!!
 Hello 2024 My name ist Alina!
 Git-Hahaber
 Hello!
