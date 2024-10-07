@@ -1,6 +1,6 @@
 # GitHubStudyRepo
 --------
-new changes)
+new changes
 --------
 Repository for study
 
